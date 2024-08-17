@@ -7,9 +7,13 @@ links.forEach((link) => {
   link.addEventListener('click', (e) => {
     e.preventDefault();
     const linkId = link.id;
-    const htmlFile = 'pages/'+linkId.replace('-link', '.html').toLowerCase();
+    const htmlFile = 'pages/' + linkId.replace('-link', '.html').toLowerCase();
     loadContent(htmlFile);
   });
+});
+
+window.addEventListener('load', () => {
+  loadContent('pages/inicio.html');
 });
 
 // Function to load the content
