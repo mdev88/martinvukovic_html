@@ -1,6 +1,6 @@
 /* Set the background color to a dark gray */
 body {
-  background-color: #333;
+  background-color: #303030;
   color: #fff; /* Set the text color to white */
   font-family: Arial, sans-serif; /* Set a clean font */
   padding-top: 3%;
@@ -27,8 +27,6 @@ h3, h4, h5 {
   font-family: 'New Amsterdam', Arial, sans-serif; /* Set heading font to New Amsterdam */
   font-size: 170%;
 }
-
-
 
 /* Style normal text */
 body {
@@ -64,12 +62,27 @@ button:hover {
   background-color: #555; /* Set hover background to a slightly lighter gray */
 }
 
+.tri {
+  list-style-type: none; /* Remove default bullets */
+  padding: 0;
+}
+
+.tri li {
+  position: relative;
+  padding-left: 20px;
+}
+
+.tri li:before {
+  content: "►"; /* Use a custom character */
+  position: absolute;
+  left: 0;
+}
+
 nav ul {
   list-style: none; /* Remove default list styling */
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
-  background-color: #333; /* Dark gray background */
-  text-align: center; /* Center the navigation links */
+  text-align: left; /* Center the navigation links */
 }
 
 nav ul li {
@@ -84,5 +97,5 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #ccc; /* Light gray text color on hover */
+  color: #bbb; /* Light gray text color on hover */
 }
