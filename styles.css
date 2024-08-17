@@ -10,20 +10,30 @@ body {
 
 /* Style headings */
 
-
-h1, h2, h3, h4, h5 {
+h1 {
   color: #ccc; /* Set heading color to a light gray */
   font-family: 'New Amsterdam', Arial, sans-serif; /* Set heading font to New Amsterdam */
-  font-size: 180%;
+  font-size: 260%;
 }
 
-h1 {
-  font-size: 250%;
+h2 {
+  color: #ccc; /* Set heading color to a light gray */
+  font-family: 'New Amsterdam', Arial, sans-serif; /* Set heading font to New Amsterdam */
+  font-size: 210%;
 }
+
+h3, h4, h5 {
+  color: #ccc; /* Set heading color to a light gray */
+  font-family: 'New Amsterdam', Arial, sans-serif; /* Set heading font to New Amsterdam */
+  font-size: 170%;
+}
+
+
 
 /* Style normal text */
 body {
-  font-family: 'Open Sans Light', Arial, sans-serif; /* Set normal text font to Open Sans Light */
+  font-family: 'Open Sans', Arial, sans-serif; /* Set normal text font to Open Sans Light */
+  font-size: 90%;
 }
 
 

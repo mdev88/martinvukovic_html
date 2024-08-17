@@ -7,7 +7,7 @@ links.forEach((link) => {
   link.addEventListener('click', (e) => {
     e.preventDefault();
     const linkId = link.id;
-    const htmlFile = 'pages/'+linkId.replace('-link', '.html');
+    const htmlFile = 'pages/'+linkId.replace('-link', '.html').toLowerCase();
     loadContent(htmlFile);
   });
 });
