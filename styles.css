@@ -1,0 +1,78 @@
+/* Set the background color to a dark gray */
+body {
+  background-color: #333;
+  color: #fff; /* Set the text color to white */
+  font-family: Arial, sans-serif; /* Set a clean font */
+  padding-top: 3%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+/* Style headings */
+
+
+h1, h2, h3, h4, h5 {
+  color: #ccc; /* Set heading color to a light gray */
+  font-family: 'New Amsterdam', Arial, sans-serif; /* Set heading font to New Amsterdam */
+  font-size: 180%;
+}
+
+h1 {
+  font-size: 250%;
+}
+
+/* Style normal text */
+body {
+  font-family: 'Open Sans Light', Arial, sans-serif; /* Set normal text font to Open Sans Light */
+}
+
+
+main {
+  padding-bottom: 10%; /* adjust the value to your desired padding */
+}
+
+/* Style links */
+a {
+  color: #66d9ef; /* Set link color to a bright blue */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  color: #fff; /* Set hover color to white */
+}
+
+/* Style buttons */
+button {
+  background-color: #444; /* Set button background to a dark gray */
+  color: #fff; /* Set button text to white */
+  border: none; /* Remove border */
+  padding: 10px 20px; /* Add padding */
+  cursor: pointer; /* Change cursor to a pointer */
+}
+
+button:hover {
+  background-color: #555; /* Set hover background to a slightly lighter gray */
+}
+
+nav ul {
+  list-style: none; /* Remove default list styling */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  background-color: #333; /* Dark gray background */
+  text-align: center; /* Center the navigation links */
+}
+
+nav ul li {
+  display: inline-block; /* Display list items horizontally */
+  margin-right: 20px; /* Add some space between list items */
+}
+
+nav ul li a {
+  color: #fff; /* White text color */
+  text-decoration: none; /* Remove default link underline */
+  transition: color 0.2s ease; /* Add a transition effect to the link color */
+}
+
+nav ul li a:hover {
+  color: #ccc; /* Light gray text color on hover */
+}
