@@ -78,12 +78,28 @@ button:hover {
   left: 0;
 }
 
+/*nav ul {
+/*  list-style: none; /* Remove default list styling */
+/*  margin: 0; /* Remove default margin */
+/*  padding: 0; /* Remove default padding */
+/*  text-align: left; /* Center the navigation links */
+/*}*/
+
 nav ul {
-  list-style: none; /* Remove default list styling */
+  display: flex;
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
-  text-align: left; /* Center the navigation links */
+  flex-wrap: wrap;
+  text-align: left;
 }
+
+/* Media query for small screens (phones) */
+@media only screen and (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+  }
+}
+
 
 nav ul li {
   display: inline-block; /* Display list items horizontally */
@@ -98,4 +114,44 @@ nav ul li a {
 
 nav ul li a:hover {
   color: #bbb; /* Light gray text color on hover */
+}
+
+
+/* Add this to the end of your styles.css file */
+
+/* Media query for small screens (phones) */
+@media only screen and (max-width: 768px) {
+  /* Make the body padding smaller for small screens */
+  body {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  /* Make the navigation menu vertical on small screens */
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  nav ul li {
+    display: block;
+    margin-right: 0;
+  }
+
+  nav ul li a {
+    display: block;
+    padding: 10px;
+  }
+
+
+}
+
+@media only screen and (max-width: 768px) {
+  img[src="img/avatar.png"] {
+    width: 80%; /* or any other percentage or pixel value you prefer */
+    height: auto; /* to maintain the aspect ratio */
+  }
 }
