@@ -78,12 +78,12 @@ button:hover {
   left: 0;
 }
 
-/*nav ul {
-/*  list-style: none; /* Remove default list styling */
-/*  margin: 0; /* Remove default margin */
-/*  padding: 0; /* Remove default padding */
-/*  text-align: left; /* Center the navigation links */
-/*}*/
+nav ul {
+  list-style: none; /* Remove default list styling */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  text-align: left; /* Center the navigation links */
+}
 
 
 
