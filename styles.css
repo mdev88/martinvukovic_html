@@ -30,7 +30,9 @@ h3, h4, h5 {
 
 /* Style normal text */
 body {
-  font-family: 'Open Sans', Arial, sans-serif; /* Set normal text font to Open Sans Light */
+  font-family: 'Inclusive Sans', Arial, sans-serif; /* Set normal text font to Open Sans Light */
+  font-weight: 400;
+  font-style: normal;
   font-size: 90%;
 }
 
