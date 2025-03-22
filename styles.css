@@ -90,7 +90,7 @@ nav ul {
 
 nav ul li {
   display: inline-block; /* Display list items horizontally */
-  margin-right: 10px; /* Add some space between list items */
+  margin-right: 8px; /* Add some space between list items */
 }
 
 nav ul li a {
