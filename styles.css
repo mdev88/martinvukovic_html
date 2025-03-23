@@ -5,7 +5,7 @@ body {
   font-family: Arial, sans-serif; /* Set a clean font */
   padding-top: 3%;
   padding-left: 30%;
-  padding-right: 20%;
+  padding-right: 30%;
 }
 
 /* Style headings */
@@ -91,6 +91,7 @@ nav ul {
 nav ul li {
   display: inline-block; /* Display list items horizontally */
   margin-right: 20px; /* Add some space between list items */
+  font-size: 90%;
 }
 
 nav ul li a {
@@ -152,9 +153,9 @@ p {
 
 }
 
-@media only screen and (max-width: 768px) {
+/*@media only screen and (max-width: 768px) {
   img[src="img/avatar.png"] {
-    width: 80%; /* or any other percentage or pixel value you prefer */
-    height: auto; /* to maintain the aspect ratio */
+    width: 80%;
+    height: auto;
   }
-}
+}*/
