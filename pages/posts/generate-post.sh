@@ -15,3 +15,8 @@ pandoc $1 > $FILENAME_HTML
 
 CLEAN=$(sed ':a;N;$!ba;s/\n/\\n/g' $FILENAME_HTML)
 sed "s|post-content|${CLEAN}|" post-template.html > $2
+
+echo ""
+echo "Archivo generado: $2"
+echo "No olvidar actualizar blog.html y feed.xml!"
+echo ""
