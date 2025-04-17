@@ -8,7 +8,7 @@ Existe una relación íntima entre nostalgia e identidad. Nuestra identidad se v
 
 Recordar "los buenos tiempos" o "los mejores momentos de nuestra vida" nos puede generar una gran alegría, pero al mismo tiempo, al hacerlo nos damos cuenta de que esas épocas ya pasaron. Nos enfrenta a la brutal realidad de que el tiempo avanza en una sola dirección... y sin embargo... ahí estamos, otra vez, reviviendo nuestro pasado. De ahí que la nostalgia sea una emoción dulce y amarga al mismo tiempo. *Bittersweet*, como le dicen en inglés.
 
-![Amigos de la infancia](/img/rivera.jpg)
+![](/img/rivera.jpg)
 
 *Arriba: Yo y dos de mis viejos amigos de la infancia*
 
@@ -18,9 +18,10 @@ También resulta que nuestro estado de ánimo actual influye sobre la experienci
 
 Por eso no es raro recordar nuestra infancia, o preadolescencia, antes de que la vida se volviera más complicada, y cuando los grandes se ocupaban de todo. Acordarse de cuando a uno lo querían incondicionalmente y la vida era pura diversión, suena bastante bien, ¿no?
 
-![Metal](/img/metal.jpg)
+![](/img/metal.jpg)
 
 *Arriba: Yo con un amigo en una fiesta.*
+
 
 Después de investigar un poco, logré aplacar algunos de mis miedos, como el de que la nostalgia pudiera hacerme vivir más en el pasado que en el presente y terminar atrapado en una especie de burbuja de escapismo. Casi todo lo que leí, parece estar de acuerdo en que mientras no se trate de cuadros patológicos (como la depresión nostálgica), la nostalgia está casi siempre asociada a emociones positivas y a efectos beneficiosos o incluso necesarios para nuestra psique. 
 
@@ -39,9 +40,10 @@ Creció en mi mente un arrepentimiento y una culpa cada vez más grandes por hab
 
 Una de esas cosas fue mi primera computadora, una Commodore 64 de Drean que compró mi papá a mediados de los 80. Una *sexy beast* como esta, que tengo ahora:
 
-![Commodore 64](/img/sexyc64.jpg)
+![](/img/sexyc64.jpg)
 
 *Arriba: Foto artística de mi "nueva" Drean Commodore 64*
+
 
 Todavía me acuerdo de ese día y de los días siguientes. Recuerdo a mi mamá y mi hermana programando en Basic (en realidad, copiaban letra por letra el código fuente que venía en una revista) y después de varios días de tipear, ejecutar el programa y que no funcione. Recuerdo mis tardes después de la escuela, merendando y jugando al *Henry's House* o al *BC's Quest for Tires*, y necesitaba pedirle a mi mamá que me los cargara porque yo no sabía hacerlo. O cuando mi hermana me llevó a comprar juegos a una dirección equivocada, en donde había una tintorería en vez de un lugar para grabar juegos en cassette...
 
@@ -49,7 +51,7 @@ Al día de hoy no entiendo qué pasó por mi cabeza cuando sostuve esa computado
 
 Desde entonces, la nostalgia me llevó a revisitar viejos hobbies, como los videojuegos, y las computadoras y consolas (ahora) retro. Jugar nuevamente a esos juegos de mi niñez y preadolescencia me causaron una oleada de emociones muy fuertes. Sin embargo, al poco tiempo esos juegos y esos aparatos antiguos se volvieron familiares otra vez para mi, y empezaron a formar parte de mi presente. Me recordaron una parte de mi persona que había relegado a un segundo plano, y me ayudaron a aceptarla y cultivarla, y ya no me sentí como un visitante de un tiempo lejano intentando volver a ser un niño, sino que encontré alegría y satisfacción en volver a juntarme con viejos amigos.
 
-![Videojuegos de carrera](/img/carrera.jpg)
+![](/img/carrera.jpg)
 
 *Arriba: Yo y mi hermana jugando a un juego de carreras*
 
@@ -65,7 +67,7 @@ Quizás uno de los aspectos más amargos de mi nostalgia, es que no cuento con e
 
 Creo que el crecimiento de todos los movimientos "retro" o "vintage" tienen de fondo algo de todo esto. Buscamos esa experiencia compartida, nos juntamos con gente que sabe de lo que estamos hablando y no necesita que le expliquemos lo distintas que eran las cosas antes.
 
-![Arcade aniversario de Hackfun](/img/aniversario.jpg)
+![](/img/aniversario.jpg)
 
 *Arriba: Aniversario número 4 de Hackfun, Agosto de 2023*
 
@@ -79,7 +81,7 @@ Y tampoco podemos subestimar el rol del capitalismo en la mercantilización de l
 
 Con un grupo de amigues hace un tiempo hablábamos de un fenómeno que veíamos y que dimos en llamar "falsa nostalgia". Nos referíamos a *los jóvenes de hoy* que sentían nostalgia por cosas de *nuestra generación*, es decir, por las cosas que a nosotres nos daban nostalgia. ¡Búsquense su propia nostalgia, loco! \**Agita el puño en el aire*\*
 
-![Niño con remera de Nirvana](/img/nirvana.jpg)
+![](/img/nirvana.jpg)
 
 *¡¿Qué saben de Grunge estos niñatos?!*
 
@@ -93,7 +95,7 @@ Entonces tenemos distintos tipos de nostalgia, y para los puristas quizás se pu
 
 Si hay un tipo de nostalgia que te sirve y te ayuda a navegar tu vida y los tiempos que corren, ojalá la puedas disfrutar a pleno.
 
-![Mi habitación](/img/habitacion.jpg)
+![](/img/habitacion.jpg)
 
 *Arriba: Mi habitación en los 90.*
 
