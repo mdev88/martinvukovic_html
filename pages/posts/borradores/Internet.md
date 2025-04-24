@@ -4,6 +4,8 @@
 
 ---
 
+![](/img/connect.jpg)
+
 La imagen que yo tenía de Internet apenas llegó a mi alcance era algo así:
 
 
