@@ -1,7 +1,7 @@
 # Compañera
 
-Júntense niños, alrededor del fogón
-voy a contarles un episodio particular
+Júntense niños, alrededor del fogón.
+hoy voy a contarles un episodio particular
 que vivió un niño hace tiempo un montón
 y que hasta hoy recuerda con pesar.
 
@@ -11,7 +11,7 @@ su vida no fue la misma
 después de lo que pasó.
 
 No se sorprendan si les digo
-ese niño, era yo.
+que ese niño, era yo.
 
 ---
 
