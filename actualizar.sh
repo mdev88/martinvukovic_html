@@ -2,4 +2,4 @@
 git add .
 git commit -m "Actualización automática"
 git push
-ssh iddqd404@bianco
+#ssh iddqd404@bianco
