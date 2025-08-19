@@ -18,7 +18,7 @@ Cuando en el supermercado pusieron una "balanza autoservicio" para que los clien
 
 Elijo no usar más Spotify, ni Google, ni Windows ni tantos otros servicios y aplicaciones, porque existen otras opciones (incluyendo no usar nada en su lugar), y porque estoy dispuesto a renunciar a un par de comodidades modernas con tal de actuar un poco más en consecuencia con ciertos valores que considero importantes pero que no me interesa predicar en este momento ni lugar.
 
-Por eso invierto mi tiempo libre en actividades que no tienen nada que ver con la generación de valor económico, ni para mi ni para nadie.
+Por las mismas razones también elijo invertir mi tiempo libre en actividades que no tienen nada que ver con la generación de valor económico, ni para mi ni para nadie.
 
 ¿Soy 100% consistente en este sentido en todas las áreas de mi vida? Por supuesto que no. Pero porque algo no sea perfecto no quiere decir que sea completamente inútil, y esto se puede aplicar a muchas cosas.
 
