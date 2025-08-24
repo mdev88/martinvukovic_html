@@ -1,32 +1,35 @@
 # La Rivera
 
-## La casa
+"La Rivera" era una "casa de campo", o "casa de vacaciones", o "casa de fin de semana", o también llamada "casa quinta". Es el lugar en donde pasé muchas vacaciones y fines de semana en mi infancia/pre adolescencia.
 
-"La Rivera" era una "casa de campo", o "casa de vacaciones", o "casa de fin de semana", o también una "casa quinta". Era la casa donde pasé muchas vacaciones y fines de semana en mi pre adolescencia.
+La Rivera no era nuestra, sino que fue cambiando de manos entre distintas personas del entorno de mi viejo. Primero fue de un escribano que daba sus servicios a su empresa (a la de mi viejo), y luego fue del socio de mi viejo (cofundador de dicha empresa y amigo de mi viejo de muchísimos años). 
 
-La Rivera no era nuestra, sino que fue pasando de manos entre distintas personas del entorno de mi viejo. Primero fue de un escribano que daba sus servicios a su empresa (a la de mi viejo), y luego fue del socio de mi viejo (cofundador de dicha empresa y amigo de mi viejo de muchísimos años). 
+Nosotros nunca hubiéramos podido comprar y mantener una casa como aquella. No es que viviéramos mal, eramos una familia de clase media-alta, pero el tener una casa en el campo siempre me pareció una extravagancia económica.
 
-Nosotros nunca hubiéramos podido comprar y mantener una casa como aquella. No es que viviéramos mal, eramos una familia de clase media tirando a media-alta, pero el tener una casa en el campo siempre me pareció una extravagancia económica.
-Muchísimos años después de lo que cuento en este texto, cuando la empresa familiar quebró y salieron a la luz ciertas cuestiones financieras, nos enteramos de que el socio de mi viejo había estado cobrando plata "irregularmente", lo cual explicó cómo había podido comprarse semejante propiedad, y tener un estilo de vida tan distinto al nuestro.
+![](/img/socios.png)
 
-
-## Recuerdos
+Muchísimos años después de lo que cuento en este texto, cuando la empresa familiar quebró y salieron a la luz ciertas cuestiones financieras, nos enteramos de que el socio de mi viejo había estado "cobrando de más", lo cual explicó cómo había podido comprarse semejante propiedad, y tener un estilo de vida tan distinto al nuestro.
 
 Casi siempre íbamos con las familias de dos amigos mios de la infancia, llamémosles R. y A. Todos éramos hijos de personas que trabajaban en la empresa de mi viejo, quienes se conocían desde hacía mucho tiempo, probablemente desde los orígenes de la empresa allá en los 70 u 80.
 
-Si bien nosotros llamábamos La Rivera a la casa quinta, "Villa La Ribera" era el nombre de la localidad a unos 40 kilómetros de Rosario en donde se encontraba. Realmente no recuerdo si la casa tenía otro nombre, como es común en este tipo de propiedades campesinas. Para mi, siempre fue y será "La Rivera".
+Si bien nosotros llamábamos La Rivera a la casa quinta, "Villa La Ribera" era el nombre de la localidad a unos 40 kilómetros de Rosario en donde se encontraba. Realmente no recuerdo si la casa tenía un nombre, como es común en este tipo de propiedades campesinas, pero para mi, siempre fue y será "La Rivera".
 
-Los invito a conocerla en un viaje a través del espacio y el tiempo:
+![](/img/mapa-rivera.png)
+
+Intenté encontrarla en el mapa satelital y en las pocas calles registradas con Street View, pero no lo logré... entonces los invito a conocerla en un viaje a través del espacio y el tiempo:
 
 > Vamos en auto por una calle de tierra, a la izquierda hay un campo completamente vacío, sin cultivos ni alambrados, que llega casi hasta el horizonte. 
 
-Muy a lo lejos en esa dirección, apenas a la vista, está la casa del casero, alguien que para mi yo de ese entonces era un verdadero "gaucho". Vivía en una choza de barro muy humilde, con techo de paja, rodeada por vacas, caballos, y todo tipo de "cosas de gauchos", como partes de carretas, bebederos para los animales, herramientas para trabajar el campo, etc.
+Muy a lo lejos en esa dirección, apenas visible, está la casa del casero, alguien que para mi Yo de ese entonces era un verdadero "gaucho". Vivía en una choza de barro muy humilde, con techo de paja, rodeada por vacas, caballos, y todo tipo de "cosas de gauchos", como partes de carretas, bebederos para los animales, herramientas para trabajar el campo, etc.
 
-**Recuerdo** una noche cuando ya nos estábamos yendo de vuelta para Rosario y habíamos ido a la casa del casero a dejarle unas llaves o algo por el estilo. Mientras los adultos conversaban, me bajé del auto y distraídamente miré el cielo, y casi caigo de rodillas al ver la cantidad aplastante de estrellas que había. Si bien en aquella época todavía se veían unas cuantas estrellas desde Rosario, la diferencia era incomprensible. Quién sabe si alguna vez voy a poder ver un cielo como ese. 
+Una noche, cuando ya estábamos yendo de vuelta para Rosario, pasamos por la casa del casero a dejarle unas llaves o algo por el estilo. Mientras los adultos conversaban, me bajé del auto y distraídamente miré el cielo, y casi caigo de rodillas al ver la cantidad aplastante de estrellas que había. Si bien en aquella época todavía se veían unas cuantas estrellas desde Rosario, la diferencia era tremenda. Quién sabe si alguna vez voy a poder ver un cielo como ese. 
 
 Volviendo a la calle de tierra... 
 
 > La casa se acerca a mano derecha. Primero vemos la ligustrina que rodea toda la propiedad, alta, gruesa y densa. Llegamos a la esquina, en donde se encuentra la entrada, una reja de hierro pesada, pintada de verde oscuro, y decorada con firuletes de metal con forma de ramas y flores.
+
+![](/img/camino-rivera.png)
+*(Imagen ilustrativa capturada con Street View por aquella zona)*
 
 > Entrando con el auto, atravesamos una especie de mini bosquecito de pinos (un puñado de árboles de este tipo plantados relativamente cerca entre sí) y estacionamos en un claro en donde el peso de los autos a lo largo del tiempo ha dejado la tierra compacta, donde ya no crece el pasto.
 
@@ -34,54 +37,71 @@ Volviendo a la calle de tierra...
 
 Es una imagen tan familiar, que creo que podría replicar el plano de memoria, aunque la haya visto por última vez hace 30 años. Si tan solo supiera dibujar o pintar, sería una de las cosas que me gustaría plasmar.
 
-**Recuerdo** la noche que descubrimos que debajo de las tejas que sobresalían del borde del techo había madrigueras de murciélagos, que empezaban a sobrevolar los alrededores en cuanto bajaba el sol.
+...recuerdo una noche cuando descubrimos que debajo de las tejas que sobresalían del borde del techo había madrigueras de murciélagos, que empezaban a sobrevolar los alrededores en cuanto bajaba el sol. 
 
-**Recuerdo** estar recostado un atardecer de verano a un lado de la casa, mirando las copas de los árboles, y escuchar el canto ensordecedor de miles de chicharras.
+...recuerdo estar recostado en una reposera un atardecer de verano, mirando las copas de los árboles, y escuchar el canto ensordecedor de miles de chicharras, festejando el calor sofocante.
 
-**Recuerdo** la noche que vimos aparecer un sapo gigantesco en la puerta de la casa, el primero que creo haber visto en mi vida, y que sólo nos animábamos a mirar medio desde lejos (y que dejamos en paz, no se preocupen).
+...recuerdo la noche que vimos aparecer un sapo gigantesco en la puerta de la casa, el primero que creo haber visto en mi vida, y que sólo nos animamos a mirar medio desde lejos (y que dejamos en paz, no se preocupen). Cosas de chicos de ciudad, sepan comprender.
+
+Sigamos recorriendo...
 
 > Al entrar en la galería, nos asalta el frío del piso de mosaicos y las paredes blancas y gruesas que sostienen la gran construcción. Abrimos la puerta-mosquitero, y luego la puerta principal. La puerta mosquitero se cierra sola detrás nuestro, pegando un chasquido ensordecedor, como un poderoso chancletazo que se escucha a varias cuadras de distancia.
 
-> Apenas entrar hay una pequeña cocina. En aquella época, nunca pisé aquella cocina más que para atravesarla y llegar al siguiente ambiente, el living. 
+> Al entrar, encontramos una pequeña cocina. En aquella época, nunca pisé aquella cocina más que para atravesarla y llegar al siguiente ambiente, el living. 
 
-> El living ocupa casi todo el resto de la planta baja, exceptuando un pequeño baño todavía más chico que la cocina, y el rincón de escalera caracol que lleva al piso de arriba.
+> El living ocupa casi todo el resto de la planta baja, exceptuando un pequeño baño todavía más chico que la cocina, y el rincón de la escalera caracol que lleva al piso de arriba.
 
-Si bien era un solo gran ambiente, el living se podía dividir en tres áreas según sus usos más frecuentes: Una con una mesa cerca de la cocina en donde siempre se amontonaban los bolsos y mochilas, otra con una mesa grande para comer todos juntos, y una con sillones y una mesa ratona frente una tele, que sólo se usaba cuando había mal clima o cuando había algún partido de fútbol importante..
+Si bien era un solo gran ambiente, el living se podía dividir en tres áreas según sus usos más frecuentes: Una con una mesa cerca de la cocina en donde siempre se amontonaban los bolsos y mochilas, otra con una mesa grande en donde podíamos comer todos juntos (aunque muchas veces entraban sólo los adultos, y nos mandaban a alguna otra mesita a los niños), y una con sillones y una mesa baja frente a una tele, que sólo se usaba cuando había mal clima o algún partido de fútbol importante.
 
-> Subiendo la escalera están las habitaciones. La que usábamos con mis amigos era una habitación alargada con tres camas separadas por mesitas de luz, y poco más. 
+> Subiendo la escalera están las habitaciones. La que usábamos con mis amigos era alargada con tres camas separadas por mesitas de luz, y poco más. Las paredes blancas lisas, el piso fresco siempre lleno de arena y pedacitos de pasto que transportábamos nosotros en nuestras zapatillas, 
 
-**Recuerdo** que las noches en esa pieza no eran fáciles para mi. Lo único que me ayudaba a dormir era el cansancio acumulado durante el día, pero en mi contra tenía: los mosquitos, el calor, y el ensordecedor silencio sólo interrumpido por ejércitos de sapos croando e insectos zumbando. Una vez que lograba conciliar el sueño, enseguida llegaba la mañana a encandilarme con su luz, ya que la ventana no tenía persiana, y sólo la cubría una finísima cortina semitransparente blanca.
+...recuerdo que las noches en esa pieza no eran fáciles para mi. Lo único que me ayudaba a dormir era el cansancio acumulado durante el día, pero en mi contra tenía: los mosquitos, el calor, y el ensordecedor silencio sólo interrumpido por ejércitos de sapos croando, perros ladrando en la distancia o quién sabe qué otros bichos aullando y chillando en la noche. 
 
-> Bajamos denuevo por la escalera, aunque mejor dicho, nos lanzamos por un caño que había en el hueco central, que hacía de especie de tubo de bomberos, pero que estaba pintado con una pintura gruesa y áspera que no era muy amigable al deslizamiento.
+Una vez que lograba conciliar el sueño, enseguida llegaba la mañana a encandilarme con su luz, ya que la ventana no tenía persiana, y sólo la cubría una finísima cortina semitransparente blanca.
 
-Pasábamos muy poco tiempo adentro de la casa. La mayoría de las imágenes que tengo del interior de la casa son muy oscuras, porque así es como se veía luego de venir desde afuera, donde habíamos estado al sol durante horas.
+> Bajamos denuevo por la escalera, aunque mejor dicho, nos lanzamos por un caño que había en el hueco central, que hacía de especie de tubo de bomberos, pero que como estaba pintado con una pintura gruesa y áspera, no se prestaba mucho al deslizamiento.
 
-> Sobre una esquina del terreno, al lado de otra especie de bosquecito de otro tipo de árboles, con corteza oscura, grandes y gruesos, estaba la gran pileta. Grande incluso para los estándares de hoy, creo yo, o por lo menos a mi siempre me pareció grande y profunda.
+Pasábamos muy poco tiempo adentro de la casa. La mayoría de las imágenes que tengo de su interior son muy oscuras, porque así es como lo veía luego de venir desde afuera, en donde había estado al Sol durante horas.
 
-El 80% de las actividades rondaban la pileta. Nadar, ~~correr~~ nadar carreras, jugar con cosas flotantes, buscar tesoros hundidos, practicar distintos tipos de saltos, tomar sol, huir de los bichos de agua, hacer la plancha, etc.
+> Sobre una esquina del terreno, al lado de un bosquecito de otro tipo de árboles, con corteza oscura, grandes y gruesos, estaba la gran pileta. Grande incluso para los estándares de hoy, creo yo, o por lo menos a mi siempre me pareció grande y profunda. 
 
-> En otra esquina del terreno, había una pequeña casa de huéspedes. Era una casita simple con una sala, una cocina, un bañito y una habitación. 
+![](/img/pileta.jpg)
+
+El 80% de las actividades rondaban esa pileta. Nadar, ~~correr~~ nadar carreras, jugar con pelotas, flotadores y muñequitos, buscar tesoros hundidos, practicar distintos tipos de saltos, tomar sol, huir de los bichos de agua, hacer la plancha, etc. 
+
+...recuerdo una tarde en la que vimos salir de entre las sombras que había debajo del borde de cemento de la pileta, una enorme iguala o reptil de algún tipo, y lentamente alejarse del bullicio y escurrirse entre los arbustos.
+
+...recuerdo las "vinchucas", unos bichitos de agua que nadaban moviendo dos patitas como si fueran remos, que me causaban una mezcla de curiosidad y rechazo, y también los "bichos palo", finitos y alargados como briznas de pasto seco. Tampoco puedo dejar de mencionar las Mantis Religiosas, los cascarudos, los tábanos, los aguaciles, las abejas, las avispas, las arañas, las pequeñas vivoritas, los caracoles, las lagartijas...
+
+> En otra esquina del terreno, había una pequeña casa de huéspedes. Era una casita simple con una sala, una cocina, un bañito y una habitación. Tenía un estilo muy setentoso, con un techito de cemento en la entrada, sostenido por dos columnas de metal pintadas de verde.
+
+![](/img/huespedes.jpg)
 
 Cuando éramos muchos en la casa, a veces nos tocaba ir a dormir ahí. Nunca me gustó esa casa de huéspedes. Estaba casi siempre desocupada, y cuando había que mudarse ahí siempre andaba con miedo de encontrarme alguna alimaña o insecto venenoso, cosa que nunca ocurría, pero el aire enrarecido de varios meses de encierro invitaba a ese tipo de imaginaciones.
 
-> Detrás de la casa principal había más terreno libre, con arbustos y árboles, algunos frutales, y mucha sombra. Era un espacio encantador, pero el protagonismo siempre se lo llevaba el lado de la pileta, que es donde daba el Sol desde media mañana hasta bastante entrada la tarde.
+> Detrás de la casa principal había más terreno abierto, con arbustos y árboles, algunos frutales, y mucha sombra. Era un espacio encantador, pero el protagonismo siempre se lo llevaba el lado de la pileta, que es donde daba el Sol desde media mañana hasta bastante entrada la tarde.
 
-> Saliendo de la propiedad por la esquina, doblando a la derecha por la otra calle de tierra, comenzamos a bajar por una pendiente, que luego de dos o tres cuadras desemboca en el Río Carcarañá. 
+> Saliendo de la propiedad por la esquina, doblando a la derecha por otra calle de tierra que empieza abajar en una pendiente bastante empinada, que luego de unas dos o tres cuadras desemboca en el Río Carcarañá. 
 
-**Recuerdo** que allí fuimos a pescar varias veces, usando lombrices que sacábamos de entre la tierra húmeda que había atrás de la casa de huéspedes.
+![](/img/carcaraña.png)
+*(Imagen ilustrativa del Río Carcarañá en aquella zona, encontrada en Internet)*
 
-Nunca fui buen pescador. Si bien no me apasionan los bichos, tampoco disfruto matándolos o haciéndolos sufrir (excepto a los mosquitos. Que se pudran los mosquitos), y eso incluye tanto a las lombrices como a los peces. 
+...recuerdo que allí fuimos a pescar varias veces con mis amigos, usando lombrices que sacábamos nosotros mismos de entre la tierra húmeda que había atrás de la casa de huéspedes.
 
-**Recuerdo** que un día había ido a pescar con mi amigo R. y su papá, y en un descuido, el padre hizo un lance y terminó enganchando el anzuelo en el brazo de R. ¿Quién nos manda a andar revoleando ganchos filosos...?
+Nunca fui buen pescador. Si bien no me apasionaban los bichos, tampoco disfrutaba matándolos o haciéndolos sufrir (excepto a los mosquitos), y eso incluye tanto a las lombrices como a los peces. 
 
-En una época llevamos nuestras bicicletas y anduvimos todos los días por aquellas calles de tierra, exploramos terrenos baldíos, escapamos de perros malos, fundamos bases secretas y escondimos tesoros debajo de puentes y al lado de troncos caídos. 
+...recuerdo que un día fuimos a pescar con mi amigo R. y su papá, y en un descuido, el padre hizo un lance y terminó enganchando el anzuelo en el brazo de R. ¿Quién nos manda a andar revoleando ganchos filosos por el aire...?
 
-Recuerdo que en alguno de esos viajes en bicicleta, por evitar un choque con uno de mis amigos, terminé cayéndome con bici y todo a una zanja llena de agua. Sobre todo recuerdo el olor a podrido que me tuve que sacar con un buen baño.
+...recuerdo que en una época llevábamos nuestras bicicletas y andábamos todos los días por aquellas calles de tierra. Exploramos terrenos baldíos, escapamos de perros malos, fundamos bases secretas y escondimos tesoros debajo de puentes y al lado de troncos caídos. 
+
+En uno de esos viajes en bicicleta, por evitar un choque con uno de mis amigos, terminé cayéndome con bici y todo a una zanja llena de agua estancada. Recuerdo vivamente el olor a podrido que me tuve que sacar con un buen baño a fondo.
 
 ---
 
 Las vacaciones en aquella casa son un emblema de una época de mi vida.
 
-> Los insectos zumbando, los sapos, las lagartijas, los caracoles, las vivoritas, los murciélagos, los pájaros, los perros del barrio, la tierra reseca, el barro, el pasto, el calor, los grillos, las nubes de bichitos de luz a la noche, las reposeras y las hamacas paraguayas, la cálida sensación de ponerse denuevo medias y zapatillas después de haber andado una semana en ojotas, el ardor en los hombros y las narices peladas por las quemaduras del sol, las cremas y los repelentes, las meriendas sencillas hechas con cariño por alguna de nuestras madres, las risas y gritos de los adultos que se quedaban hasta tarde después de comer mientras nosotros nos íbamos a la cama...
+> Los insectos zumbando, los ejércitos de sapos cantando al anochecer, los perros del barrio, la tierra reseca, el barro, el pasto, el calor, los grillos, las nubes de bichitos de luz, las reposeras y las hamacas paraguayas, la cálida sensación de ponerse denuevo medias y zapatillas después de haber andado una semana en ojotas, el ardor en los hombros y las narices peladas por las quemaduras del sol, las cremas y los repelentes, las meriendas sencillas hechas con cariño por alguna de nuestras madres, las risas y gritos de los adultos cuando se quedaban hasta tarde después de comer mientras nosotros nos íbamos a la cama...
 
-Todos tenemos estos monumentos a la felicidad de nuestra juventud. Yo tuve la suerte de poder pasarlos en este lugar maravilloso que me permitió experimentar tantas cosas que un ambiente de ciudad nunca hubiera podido.
+Todos tenemos estos monumentos a la felicidad de nuestra infancia. Yo tuve la suerte de poder pasarlos en este lugar maravilloso que me permitió experimentar tantas cosas que un ambiente de ciudad nunca hubiera podido.
+
+Gracias por leer.
