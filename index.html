@@ -1,44 +1,385 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Martín Vukovic</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@0;1&display=swap" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Martín · personal & profesional</title>
+  <link rel="stylesheet" href="/styles/styles.css">
 </head>
-
 <body>
-  <h1>MARTÍN VUKOVIC</h1>
+  <div class="container">
+    <aside class="sidebar">
+      <h2>Martín Vukovic</h2>
+      <ul class="nav-menu">
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#personal">Personal</a></li>
+        <li><a href="#profesional">Profesional</a></li>
+        <li><a href="#blog">Blog</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </aside>
 
-<!--  <iframe src="https://snippet.hackfunrosario.com"></iframe>-->
+    <main class="main-content">
+      <section id="inicio" class="section">
+        <h2>Inicio</h2>
+        <p>¡Hola!, soy Martín, y encontraste mi página personal. ¡Felicitaciones!</p>
+        <p>Se preguntarán por qué tengo una web personal en lugar de publicar en alguna red social como todo el mundo.</p>
+        <p>Se me ocurren varias respuestas, y ninguna está relacionada con lograr mayor difusión, ni conseguir seguidores, ni hacer plata.</p>
+        <p>Me da mucha satisfacción hacer cosas "porque si". Esta web es una de ellas.</p>
+        <p>Bienvenidxs a mi humilde espacio en la Web.</p>
+      </section>
 
-  <nav>
-    <ul>
-      <li><a href="#" id="inicio-link" class="navitem">INICIO</a></li>
-      <li><a href="#" id="personal-link" class="navitem">PERSONAL</a></li>
-      <li><a href="#" id="profesional-link" class="navitem">PROFESIONAL</a></li>
-      <!--<li><a href="https://martinvukovic.bearblog.dev/blog/" target="_blank">BLOG</a></li>-->
-      <li><a href="#" id="blog-link" class="navitem">BLOG</a></li>      
-      <li><a href="#" id="contacto-link" class="navitem">CONTACTO</a></li>
-    </ul>
-  </nav>
+      <section id="personal" class="section">
+        <h2>Personal</h2>
+        
+        <p>Mi motor principal en la vida es la curiosidad y el descubrimiento de cosas nuevas que me resulten originales, creativas y estimulantes.</p>
+        <p>Desde chico me interesaron la tecnología y la computación. Aprendí a instalar Linux por mi cuenta cuando se instalaba con diskettes y casi nadie tenía Internet, y me enseñé a programar en C en mis últimos años de secundaria leyendo "El lenguaje de programación C" de Kernighan y Ritchie.</p>
+        <p>Me gusta reacondicionar compus viejas, probar servicios autoalojados (self-hosting), y tratar de desligar mi actividad digital de las grandes empresas que se van comiendo poco a poco de todos nuestros espacios.</p>
+        <p>Disfruto mucho de la lectura y a veces también escribo. Otro hobby importante son los videojuegos, tanto actuales como "retro": tengo una pequeña colección de retroconsolas pero tampoco le digo no a un emulador.</p>
+        <p>Siempre hay algo sonando en mis auriculares, ya sea música, podcasts o audiobooks.</p>
 
-  <main>
-    <div id="content-container"></div>
-  </main>
+        <pre>+-.+.---+#+------+##+-----+-----------------------.---.--+----------------------------
+-#.-#----#-#-#+--+##+-----##+----##+--+##+---+----.---.---++--------------------------
+......#+-+--+-#+##-++++--#+++-+-+++++#+##+-#+##++##+--+--+##++#++++-------------------
+...-------------.............................-.-++##++#.--++++#++##-##+#+##+####------
+--------------------------------------------------......------..............-+##+#-+##
+--------------------------------------------------.----.----------.---..--...-........
+---------+-------------+----+---------------------.----..-------.-.-..................
++-+-+-+++--------+---++++-------------------------.-----.-------......................
+++-+---+--+--------+------------------------------..----...-.......#....#..........+##
++-++--------------------------------...............................--############+####
+---....---.--.-.-----------..............................+######################+..-##
+.-+.....--..-........................---####+#####---....-+######+++-#++#++#+###+..-+#
+......--####+-...........-..-##+--####+-+###+####+---.....-###+##++#+##++++-++----.---
+.......-#####-...............-#+--+####+##########+-......-++++++-------+-----++-...--
+..-.-+---+#+-........-............-+##+++#########---.....-+##-##+-+-+++-+.++++#-..-+#
+.......................-++####+++-.-##...+##+...#-.-+-.....+#+-##--#-##.##-#+####-.-+#
+....................-###########++---##...-#-..--...+.......#+.-#+-#--##-#+#+##+#...-#
+...........#.....++#######+++++##+++--#...##....+-..---....-#---#--#+.++.#.+.#-##+.---
+...............######++++++#+######++--..-###--.....-.....-.....-----+#+-----#+-+-..+#
+.............####+++##########+#########-+-.+.+..--........-...........-.-----+--....#
+.............#+#+##########++++##########........................-.........------.....
+............####++#########+++++++#######-.....................-...........+-.---.....
+............####+########++++++++########+...........-......--.................-......
+...........-####++######++++++++##########+..........-+++.---+-.......................
+---.-......##++#++##########+#++##########+.....-++++....-######-...............-.-...
+-----......##+++-#######+++++++++#########+....-+++#+#+#####-####...............-+####
+-----....#+#-+########+---------++++++--+#+......+#######+++#####-.............-######
+--.......#+##++######+-.-...+----+#+-+..#---..++++++##############-.............####+-
+-..-.....###-++#####++++#+-------###--++++++...-..-++######+---+##+-............-+-+#+
+--..-.....#+-#+########+-------+####+###++++..----.--####+-..+##+##+............+-#+--
+-+++-.--.-###-#######################+#####+-++++---+###+--....####+............-+-+-+
+--+--.-----##+#+##########+++++#######++####-+++---++####+++##++####............-++###
+--.-...-..-###++#######+++++++-##+##++#++##+++++---#######++######++.............-++##
+---.-.-.....#.#+#######+++++++---.-+...---#-++---++###############+-............-++###
+.+-#-.........#########++++--....-+++....-+-+-----+#+##+++#######++............-..#+#+
+..#-..........#####++##++......----+-++-.+..+-.--+++#####++######+...........-.....-+#
+.#++-........####++-++++-..++++##+++++#.....-.....++######++#++#++..............---.-#
+#+---.......-####+--++----.-++--....-#+.........-#####+-.+++####+................-.--+
+-------........+#+++--..-+---+++--.--#-........-----+++########+...................+##
+------...........-+##--.-...--+#+---+.-.......--++++######+##+-...............-....-++
+###-.-++-........--+##++-+-++#++---+.-........++##########++........................+#
+##+++-.............+++##++#+#++-.-...-.........+########+-......................-..+##
++++++++-.............+++++###++-+++-..............+###-....................-.......###
+++++-----.-...........-+++++++++++++................-..............................###
+++---++----.............+++++++++++#+.............................................###-
+-+++------.-.............#+++#+#++++#-................................-+-+-.......--##
++##+++-------.............+++++++##+#+....-..........................+#+#+-........-++</pre>
 
+        <p>Tengo la suerte de estar casado con alguien que me entiende y me soporta, con quien tengo una hija a la que estoy intentando mostrarle el lado nerd de la vida.</p>
 
-  <script src="script.js"></script>
+        <h3>Hackfun</h3>
 
+        <p>Hackfun es un hackerspace que inicié en 2019, poco antes de la pandemia. Es un espacio de trabajo (una especie de taller o laboratorio) en donde se reúne una comunidad a llevar a cabo proyectos que integran tecnología, arte y creatividad, en un ambiente inclusivo y amigable para todo el mundo.</p>
+
+        <pre>@@@@@@@@@@@@%%%%%#*+++++-.*****:*******=**+***+***=@@@@@@@*#%=%#%#%%#*-.:**@@@@@@@@@@@
+@@@@@@@@@@@@@%%%%###++-+*-.-****+****+******@@@#**:****+#*#####+####-###*+@@@@@@@@@@@@
+@@@@@@@@@@@@@%%%%%####*+=*+:.**=******=*****+@@%#*:****+*+**#*+*#**=##**#@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@%%%######+***=.=********+*-**#@@@#*-********=****#*#*=*#%%@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@%%%#######@%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@
+%@@@@@@@@@@@@@@%%%%######@%@%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@#+
+:=+@@@@@@@@@@@@%%%%######@@@@@@@@@@%@@%@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@+*-
+#**+-===@@@@@:+=+%%######@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@.-
+#*#*@@@@@@@@.@@@@:%%#####@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@:--@@@@@@@@@%:.=
+#*##@@@@@@@@=@@@@@%%#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@%:-@@@@@@@@@@@
+#%**@@@@@@@@@=+@=@%%#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=#-+-@@@@@@@@@*@@@@=@@@@%@+--::@
+#%**@@@@@@@@@%+=%%%%%%###@@@+==@@@@@@%%@@@@@@@@@@@@@@@:@@+:+@@@@@@@@+:@@::.+-:==@++-=@
+%*%*@@@@@=-%@@@@@@%%%%###@@@%@%#@@@@@@@@@@@@@@@@@@@@@@-#-##@@@@@@@@@@#:.:*@::::*@@-*-@
+@##*@@@@@-@@@@@@@@@@@####@@@*+*%:+@@@@@@#@@@@@@@@@@@@@@-@#*::--#@@@@@....:::::.%@@:#-@
+##**@@@@%:@@@@@@@@@@@###.::.@@@:.::.+%@*.:#@=-===-=%--*.+%@:::...@@%::::::::::..@+#:@@
+%#**@@@@@@@@@@@%@@%@%#@:..::..:......*%...::=-+=---::::-.*...:*..:::::::::@@@@.@@..*=@
+#**#@@+#:%@@@@@@@%*%%@==%..:...............:-------:=.-+::-:::..@@@@@..:@@@@@..@@+#%-@
+#***@.@#%@@@@@@@%@+@*+#@#=.:.:.......%@..:.:=--%---::-.::.::....:@@@@@%@@##+@..@@:*@.@
+****@+@++@%@@@@@%@-@@-@#=+=-=-..#@*..@@@@@@@-+-----=*:..:...==::.@%*:.........#@=:...@
+*#*+@#@.@@@%@@@@@%#@@*@*%:@@@*:.@@@@@@@@@@=*-------*@...=%=-:...::##::::::....%%:+:+.@
+***+@@*.:..@%@%@@%@+@-...+@%@=...@@@=..+@@*.:-=%+--#*:..+@@@+...::=:..:::::....@#@:%:@
+*++++@@..::=@%@%@@@-@.....#*=:..:##==..-##---------=%:.+=%%-++=......:....:::.*--=----
+*+++*@@::::.-:@@@@@*@.:@@*+==%@@.=++=..=-#@=---@--:.+..:====*...-:::..::-:---::::::--=
+*+++=@#.-+++*=--=:=@%=%%@%-#%@@##.===:.-@=@-*:--:::*@=@@@-+:%@@@@@-:.....:-:..:::*@---
++*+++=..-=+=*=:---+=.=#-@@%+@@@*+.:==---+==#=-=====:@@@@@=+**@@@@@@=..........:::%@---
+++++=*..=+=++=:==--..*%@@@@@@@@%=.-.*..=-:+:*......@@%@@@%#@@%@@@@@=-.....::..:..:::--
++++==*..-=+==+:---=--=%#@@@@@@-#-.:.----.##%-:.::.:@@@*@@@@*@*%%@@@==-:...:.:::..+=---
+++=-=-..:=+==+--:-=:-+*#@@@@@@*%..:--::::....:--:.@@@#==--#%:@@+@@*===....::-....=*---
+=+=+....:==:..==------@@@@@@@@#-.-.:.::::.--:-:::=@@*::*#%@%%%%-@@#++=+...+.:....%*-::
+==-=--::-=-:::+*---:@#=%#@@%@%@#.-:-:%%@@@*:..:::#%@@..-*+##*+@@%#+====....=..:..-*-:-
+==-=-----=---=*=--------#@-@==@#+--:.@*@%@@%:-::..=#@@:..+@@@%%+--:+===....==......-::
+====-=---==--*#--=-=--#%--*=:---.@@@.--::=:---::@@@@:#@@@@+...-*@@@@===-...===.....:::
+==------::+--@---====-++#@@@..::@@@:..:...:@@#-.#@@%@.--+*:...-#=@@*==--...=--......:.
+====-----+@-#@--+*=--::+@@@@@@#:@@@:....:@@@-.::-+=+++-:=*=..:.-==+==+++:=.+===...=+++
+++++===-*=-+::==*+=--:::+@@@@@%+@@:...:-@@@*@@@%=++++-=..+*::.:----=+**....:---...--*+
++******+*++***#*#***--:..+@@@@@@:-....@@@=@@@@@@#+++==-.::::::.::---=......:***-=+..=+
+***#*%**#***##%##*****+-::=+@@@@@@:.@@@*@@@@@%@#:::-::-*:+::::-:.--==----=+#***--=...-
+***+@%*#####%**#*#*%#***++*-:-@#@*@@@@@@@@@%++=-=--:----=+*++#@:#-==+===--++*#*---....
+**#*#%#*##*%#*%***#**#+--@-.-#:.-*#@@@=:-::.:::--****+++*++**+++++*=====++##****+:....
+*####%@@%%##%#**%#%***+++=:::@-:--:..=-@---------*#*@**##**##**%#%**#**#**%*#*%#*:....
++%#**@#@%#@%%@%*###***##%@@****+*#**:-=%+++#**+*##***###%#******#**#@###**#%*##***....
+#@#@@%#***#*%*%%#%@#*#%##@*+##%%#@%%@*==%#%**#+%%*#*%**#*%@@%**@#+*@##*****%**%*+*:::.
+@%#*#%@@##@%%%#%#@###*#+#**#%##%@@%%#@*%%**#####*#@#*@@%*%%@@%######*#%#*#**#*****::::
+@*#@%@@%%@%#@@%#%+##%**%%+@@#@@#@@%@@#@###%@@#*@%%#%@#@@*##@**#***@@##%@##%@#++@**:::-
+#**@%@@#*@%@*@%*#*#*#*%@@%@@@@%#%@###%@@@@@@%##%%#@@##*#@%*@*##%@%@@%*@%@%%**@#@+####@
+@%@%@*#@%%@#@*%#*+@####%@#@%@%#@%*##%%@#@@###@@@#%@%@#@%@#%@#@*@*#@%@##@##@#@%**%*#*##
+@%@%@##%#@%@@%@**@%@%@%%@@@%#@%@#@#@%@%*%@%%##%%#*@@@%%@%%%@#@%@%%#%@**%*%#%@*@*++#***</pre>
+
+        <p>Desde su origen ha ido evolucionando y creciendo significativamente, especialmente luego de habernos instalado en el <a href="https://www.instagram.com/ccdelatoma/">Centro Cultural de La Toma</a>.</p>
+        <p>Para conocer más, visitá nuestra <a href="https://hackfunrosario.com">página web</a>.</p>
+      </section>
+
+      <section id="profesional" class="section">
+        <h2>Profesional</h2>
+        
+        <h3>Perfil</h3>
+        <p>Desarrollador Flutter freelance con experiencia en desarrollo de aplicaciones Android nativas y project management. Me considero un generalista de IT y un "Jack of all trades".</p>
+        <p>Tengo experiencia desarrollando sistemas y aplicaciones tanto para uso masivo como para distintas áreas de la industria, involucrándome en todas las etapas del diseño y desarrollo de productos, desde su planificación inicial hasta su despliegue y publicación.</p>
+
+        <pre>############################################+##++##+++++++++++++++++++++++++++++++++++
+############################################+##+#+++++++++++++++++++++++++++++++++++++
+############################################+###+#++++++++++++++++++++++++++++++++++++
+############################################+######+++++++++++++++++++++++++++++++++++
+############################################+#######++++++++++++++++++++++++++++++++++
+############################################++++#####+++++++++++++++++++++++++++++++++
+##################################################++++#+++++++++++++++++++++++++++++++
+#####################################################+++++++++++++++++++++++++++++++++
+#######################################################+++++++++++++++++++++++++++++++
+#################################++#####################++++++++++++++++++++++++++++++
+################################--++#####################+++#+++++++++++++++++++++++++
+###############################+-++--+++##################++++++++++++++++++++++++++++
+###############################++++++-++++#################+++++++++++++++++++++++++++
+###############################+-++++++++#++++--..---##+--++++++++++++++++++++++++++++
+################################+##---+####+-.-+....-##..-++++++++++++++++++++++++++++
+###############################-++-++++####################+++++++++++++++++++++++++++
+###############################++--++++++##################+++++++++++++++++++++++++++
+################################+#+-+++-+++++#######+#--+##+++++++++++++++++++++++++++
+###################################+++++++++++######-..-###+++++++++++++++++++++++++++
+##################################+--+--+++-+++######+-####+++++++++++++++++++++++++++
+###################################++++-------+++-......-##+#+++++++++++++++++++++++++
+####################################++-----------+##++###+########++++++++++++++++++++
+###################################+++-----------+#+---#+#++###########+++++++++++++++
+##################################.++++---------.--+####+###+##+######+##+++++++++++++
+#################################-.-+++----------......+#####+-...-+++#--##+++++++++++
+###############################....---+------------.-#######++-....-+--#+.-#++++++++++
+----------++++#############+........---------------..--##+++-+-+.....+-.+#+#++++++++++
+#####+++++++++++++++++------..........-------------...####+++---#...........-+++++++++
++#+###############+------------........-----------#--###+++----------.......---+++++++
++++-####++++++#+-------..---------......----------#+####++-----.-.----+-#+-+----++++++
++++-+++++++++++-.--------..----.----.....-++++---#++#####------..-..-..-#---....+#-+++
+++++-+++++++++.---.--------.----..------..-++---#+++####--------..-.-..#--+#-....--++#
+++++-+++++++++...--...-----------..------..----++++#####.--------..-...#--+-.-+-.+##++
+++++-------++-..-------..-----.---.------..--.-++++####+---------...-..#--+-.-.-.-++++
++-------------....------...----..--...-.......-+++++++#-----------.....+++++-+......+-
+--------------.......------..--.-.--.........-++###++++-----------....-#####++-..-.++-
+----------------........-----..-.-.-----..-..+##++++++---------.--.....+##+#++-+..-#-+
+----------------...........----.--..-----..-++###+++++.-----------.....-##+#+-..++-+##
+-----.---------...---..---..-------.------+++#+++++++-.-----------......+####+++-.+-##
+-----......-----...------------.----.----++++#+++++++.----------.-.......-####+######+
+------..........-.......------------...-++++++#+++++-.-------------........-#+--+++---
+------++++##++--............---------.++++#+++++++++.---.---------...........####-----
+---------+++++++-........--.-.-.....+++++###+++++++-.---.-.....---............---..---
+..--.------++++++.............-+###+++#####++++++++..-........................---.....
+......-.-----++++..........-+####++++++###++++++++-.......-...................--......
+..-..-..--.----++.....--.-+++####++++++++++++++++-............................---.....
+....--......---++-.......-+++++++++++##++++++++++..........-..................---.....</pre>
+
+        <h3>Estudios</h3>
+        <p>Cursé algunos años de Ingeniería en Sistemas y Licenciatura en Ciencias de la Computación, pero obtuve mi mayor formación de manera autodidacta y a través de la experiencia laboral, proyectos personales, cursos y certificaciones.</p>
+
+        <h3>Conocimientos</h3>
+        <blockquote>#flutter #dart #kotlin #android #java<br>#linux #programación #odoo<br>#projectmanagement #infosec #sysadmin</blockquote>
+
+        <h3>Experiencia laboral</h3>
+        
+        <h4>Proyectos destacados</h4>
+        <ul>
+          <li><p><code>Faster Empleo</code>: App de trabajo temporal - <a href="https://play.google.com/store/apps/details?id=es.faster.FasterEmpleoApp" target="_blank">Play Store</a></p></li>
+          <li><p><code>Nubeprint</code>: App de monitoreo de consumibles de impresión - <a href="https://play.google.com/store/apps/details?id=com.addann.nubeprint" target="_blank">Play Store</a></p></li>
+          <li><p><code>Juntas Illinois</code>: App de monitoreo de línea de producción industrial - (No disponible para descarga)</p></li>
+        </ul>
+
+        <h4>Cronología</h4>
+        <ul>
+          <li><p><code>2019 - actualidad</code>: Desarrollo de aplicaciones multiplataforma con Flutter.</p></li>
+          <li><p><code>2013 - 2019</code>: Desarrollo de aplicaciones nativas Android (Java, Kotlin), consultoría para la gestión de riesgos y seguridad de la información.</p></li>
+          <li><p><code>2007 - 2012</code>: Administrador de sistemas y redes Linux, desarrollo de páginas web.</p></li>
+          <li><p><code>Origen de los tiempos - 2006</code>: Administrador de sistemas y redes, desarrollo de scripts para automatización de procesos, documentación técnica.</p></li>
+        </ul>
+
+        <h4>Clientes destacados</h4>
+        <ul>
+          <li><p>Faster ETT (España) - <a href="https://faster.es" target="_blank">faster.es</a></p></li>
+          <li><p>Nubeprint (España) - <a href="https://nubeprint.com" target="_blank">nubeprint.com</a></p></li>
+          <li><p>ECR Electronics (Argentina) - <a href="https://ecr.com.ar" target="_blank">ecr.com.ar</a></p></li>
+          <li><p>Freegle (Reino Unido) - <a href="https://www.ilovefreegle.org/" target="_blank">ilovefreegle.org</a></p></li>
+          <li><p>Juntas Illinois (Argentina) - <a href="https://juntasillinois.com" target="_blank">juntasillinois.com</a></p></li>
+          <li><p>Loyola S.A.S (Argentina) - <a href="https://loyola.com.ar" target="_blank">loyola.com.ar</a></p></li>
+          <li><p>Arbusta (Argentina) - <a href="https://arbusta.net" target="_blank">arbusta.net</a></p></li>
+          <li><p>nLife S.L. (España) - <a href="https://nlife.es" target="_blank">nlife.es</a></p></li>
+          <li><p>Vertigo S.A. (Argentina) - <a href="https://vertigo.com.ar" target="_blank">vertigo.com.ar</a></p></li>
+          <li><p>Space Misfits (EEUU) - <a href="https://spacemisfits.com" target="_blank">spacemisfits.com</a></p></li>
+        </ul>
+      </section>
+
+      <section id="blog" class="section">
+  <h2>Blog</h2>
+  
+  <div class="blog-year">
+    <h3>2026</h3>
+    
+    <div class="blog-post">
+      <div class="post-meta">01/03</div>
+      <div class="post-title"><a href="/posts/2026/03-01-rediseno.html" target="_blank">Rediseño de la web</a></div>
+      <div class="post-description">Presento los cambios de aspecto y funcionamiento de la web.</div>
+    </div>
+
+    <div class="blog-post">
+      <div class="post-meta">18/02</div>
+      <div class="post-title"><a href="/posts/2026/02-18-por-que-escribo.html" target="_blank">Por qué escribo</a></div>
+      <div class="post-description">No es que necesite dar razones, pero acá están igualmente.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">07/02</div>
+      <div class="post-title"><a href="/posts/2026/02-07-cartas.html" target="_blank">El olvidado oficio de enviar y recibir cartas</a></div>
+      <div class="post-description">Una reflexión sobre la práctica de escribir cartas.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">05/02</div>
+      <div class="post-title"><a href="/posts/2026/02-05-malentendido.html" target="_blank">Un malentendido</a></div>
+      <div class="post-description">Un ejercicio para estimular la escritura creativa, con un pequeño ejemplo.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">31/01</div>
+      <div class="post-title"><a href="/posts/2026/01-31-videojuegos-mapapis.html" target="_blank">Guía para nuevxs padres/madres gamers</a></div>
+      <div class="post-description">Recursos para madres/padres primerizxs que no quieren renunciar a su hobby favorito.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">29/01</div>
+      <div class="post-title"><a href="/posts/2026/01-29-borrador.html" target="_blank">Borrador</a></div>
+      <div class="post-description">Un texto que pinta un estado de ánimo.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">27/01</div>
+      <div class="post-title"><a href="/posts/2026/01-27-barrio.html" target="_blank">Lo que queda de mi barrio</a></div>
+      <div class="post-description">Un recorrido por lugares históricos (a nivel personal) de mi barrio.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">21/01</div>
+      <div class="post-title"><a href="/posts/2026/01-21-blog-questions-challenge.html" target="_blank">Blog Questions Challenge</a></div>
+      <div class="post-description">Una serie de preguntas y respuestas sobre mi sitio personal y blog.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">21/01</div>
+      <div class="post-title"><a href="/posts/2026/01-21-busca.html" target="_blank">Busca (micro relato)</a></div>
+      <div class="post-description">Un micro relato que escribí de un tirón y casi sin revisar.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">14/01</div>
+      <div class="post-title"><a href="/posts/2026/01-14-lectura.html" target="_blank">Una lectura sobre mi cabeza</a></div>
+      <div class="post-description">Pasé de leer cero libros a 40 de un año para el otro. ¿Por qué?.</div>
+    </div>
+  </div>
+
+  <div class="blog-year">
+    <h3>2025</h3>
+    
+    <div class="blog-post">
+      <div class="post-meta">24/08</div>
+      <div class="post-title"><a href="/posts/2025/08-24-la-rivera.html" target="_blank">La Rivera</a></div>
+      <div class="post-description">Recordando un lugar muy especial de mi juventud.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">19/08</div>
+      <div class="post-title"><a href="/posts/2025/08-19-molotov.html" target="_blank">Pequeñas Molotov</a></div>
+      <div class="post-description">Pequeños actos de desobediencia allanan el camino a rupturas más fundamentales.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">03/08</div>
+      <div class="post-title"><a href="/posts/2025/08-03-companera.html" target="_blank">Compañera</a></div>
+      <div class="post-description">Una anécdota formativa de mi infancia.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">16/06</div>
+      <div class="post-title"><a href="/posts/2025/06-16-legacypunk.html" target="_blank">#Legacypunk</a></div>
+      <div class="post-description">Un manifiesto para un mundo en obsolescencia.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">24/04</div>
+      <div class="post-title"><a href="/posts/2025/04-24-que-extraño-de-internet.html" target="_blank">¿Qué extraño realmente cuando extraño la Internet de los 90?</a></div>
+      <div class="post-description">Así era la Internet que yo conocí por primera vez.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">17/04</div>
+      <div class="post-title"><a href="/posts/2025/04-17-vuelvo-a-alojar-mi-blog.html" target="_blank">Vuelvo a alojar mi blog</a></div>
+      <div class="post-description">No, no es broma. Vuelvo a mudar el blog.</div>
+    </div>
+  </div>
+
+  <div class="blog-year">
+    <h3>2024</h3>
+    
+    <div class="blog-post">
+      <div class="post-meta">15/08</div>
+      <div class="post-title"><a href="/posts/2024/08-15-el-placer-y-el-dolor-de-recordar.html" target="_blank">El placer y el dolor de recordar</a></div>
+      <div class="post-description">Intento entender mi nostalgia.</div>
+    </div>
+    
+    <div class="blog-post">
+      <div class="post-meta">01/10</div>
+      <div class="post-title"><a href="/posts/2024/10-01-nuevo-blog.html" target="_blank">Nuevo blog, y van...</a></div>
+      <div class="post-description">Soy lo que podría llamarse un veterano de Internet...</div>
+    </div>
+  </div>
+</section>
+
+        <section id="contacto" class="section">
+          <h2>Contacto</h2>
+          
+          <h3>Email</h3>
+
+          <p>Podés escribirme a <a href="mailto:martinv@disroot.org" target="_blank">martinv@disroot.org</a></p>
+
+          <h3>Mastodon</h3>
+          <p>Mi usuario es <a href="https://rebel.ar/@martindehf" target="_blank">@martindehf@rebel.ar</a></p>
+
+          <h3>Gemini</h3>
+          <p>Visitá mi <a href="gemini://texto-plano.xyz/iddqd404" target="_blank">cápsula Gemini</a>.</p>
+          <p>También podés derla desde la <a href="https://portal.mozz.us/gemini/texto-plano.xyz/iddqd404/" target="_blank">web</a></p>
+        </section>
+
+      <div class="footer-links">
+        <a href="#inicio">Inicio</a> · <a href="#personal">Personal</a> · <a href="#profesional">Profesional</a> · <a href="#blog">Blog</a>
+      </div>
+    </main>
+  </div>
 </body>
-
 </html>

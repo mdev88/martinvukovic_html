@@ -4,6 +4,26 @@
   <title>Martín Vukovic</title>
   <link>https://martinvukovic.com</link>
   <description>Blog personal de Martín Vukovic</description>
+
+  <item>
+    <title>Rediseño de la web</title>
+    <link>https://martinvukovic.com/posts/2026/03-01-rediseno.html</link>
+    <guid>https://martinvukovic.com/posts/2026/03-01-rediseno.html</guid>
+    <description>Presento los cambios de aspecto y funcionamiento de la web.</description>
+  </item>
+
+  <item>
+    <title>Por qué escribo</title>
+    <link>https://martinvukovic.com/pages/posts/2026/02-18-por-que-escribo.html</link>
+    <guid>https://martinvukovic.com/pages/posts/2026/02-18-por-que-escribo.html</guid>
+    <description>No es que necesite dar razones, pero acá están igualmente.</description>
+  </item>
+  <item>
+    <title>El olvidado oficio de enviar y recibir cartas</title>
+    <link>https://martinvukovic.com/pages/posts/2026/02-07-cartas.html</link>
+    <guid>https://martinvukovic.com/pages/posts/2026/02-07-cartas.html</guid>
+    <description>Una reflexión sobre la práctica de escribir cartas.</description>
+  </item>
   <item>
     <title>Un malentendido</title>
     <link>https://martinvukovic.com/pages/posts/2026/02-05-malentendido.html</link>
