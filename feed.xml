@@ -4,14 +4,25 @@
   <title>Martín Vukovic</title>
   <link>https://martinvukovic.com</link>
   <description>Blog personal de Martín Vukovic</description>
-
+  
+  <item>
+    <title>Tres pinturas de John William Waterhouse</title>
+    <link>https://martinvukovic.com/posts/2026/03-15-3-pinturas-waterhouse.html</link>
+    <guid>https://martinvukovic.com/posts/2026/03-15-3-pinturas-waterhouse.html</guid>
+    <description>Tres de mis pinturas favoritas de este artista que acabo de conocer.</description>
+  </item>
+  <item>
+    <title>Writing Sparks (English)</title>
+    <link>https://martinvukovic.com/posts/2026/03-10-writing-sparks.html</link>
+    <guid>https://martinvukovic.com/posts/2026/03-10-writing-sparks.html</guid>
+    <description>Writing Sparks are ideas to help you start writing.</description>
+  </item>
   <item>
     <title>Rediseño de la web</title>
     <link>https://martinvukovic.com/posts/2026/03-01-rediseno.html</link>
     <guid>https://martinvukovic.com/posts/2026/03-01-rediseno.html</guid>
     <description>Presento los cambios de aspecto y funcionamiento de la web.</description>
   </item>
-
   <item>
     <title>Por qué escribo</title>
     <link>https://martinvukovic.com/pages/posts/2026/02-18-por-que-escribo.html</link>

@@ -47,7 +47,7 @@
       font-weight: 400;
       font-size: 1.6rem;
       margin-bottom: 2.5rem;
-      color: #e3e9f2;
+      color: #c66b93;
       width: 100%;
       text-align: right;
     }
@@ -63,13 +63,12 @@
     }
 
     .nav-menu a {
-      color: #9aa8b9;
-      text-decoration: none;
+      color: #d8acf9;
       font-size: 1.35rem;
     }
 
     .nav-menu a:hover {
-      color: #c7a46b;
+      text-decoration: underline;
     }
 
     .main-content {
@@ -89,7 +88,6 @@
     .section {
       padding: 2rem 0;
       margin-bottom: 3rem;
-      border-bottom: 1px solid #262e38;
     }
 
     .section:last-of-type {
@@ -106,7 +104,7 @@
     h2 {
       font-size: 2.15rem;
       font-weight: 400;
-      color: #e3e9f2;
+      color: #c66b93;
       margin-bottom: 1.8rem;
     }
 
@@ -132,12 +130,8 @@
       max-width: 100%;
     }
 
-    p:last-child {
-      margin-bottom: 0;
-    }
-
     p code {
-      color: #c7a46b;
+      color: #c66b93;
       font-family: 'Courier New', Courier, monospace;
       font-size: 0.95em;
       background: transparent;
@@ -145,7 +139,7 @@
     }
 
     a {
-      color: #c7a46b;
+      color: #d8acf9;
       text-decoration: none;
     }
 
@@ -155,41 +149,44 @@
 
     blockquote {
       font-size: 1.125rem;
-      color: #9aa8b9;
       max-width: 50vw;
       margin: 1rem 0;
       padding-left: 1rem;
-      border-left: 2px solid #c7a46b;
+      border-left: 2px solid #c66b93;
     }
 
+    hr {
+        margin-bottom: 20px;
+        border: 1px dashed #c66b93;
+    }
 
-ul {
-  max-width: 50vw;
-  margin: 1rem 0;
-  padding-left: 1.5rem;
-  color: #9aa8b9;
-  list-style-type: "❯ "; /* diamond character with trailing space */
-}
+    ul {
+      max-width: 50vw;
+      margin: 1rem 0;
+      padding-left: 1.5rem;
+      color: #9aa8b9;
+      list-style-type: "❯ "; /* diamond character with trailing space */
+    }
 
-ul li {
-  margin-bottom: 0.5rem;
-}
+    ul li {
+      margin-bottom: 0.5rem;
+    }
 
-ul li p {
-  margin-bottom: 0;
-  max-width: none;
-}
+    ul li p {
+      margin-bottom: 0;
+      max-width: none;
+    }
 
-pre {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.9rem; /* 50% larger than previous 0.6rem */
-  line-height: 1;
-  font-weight: 500;
-  color: #b8c4d2;
-  white-space: pre;
-  margin: 1.5rem 0;
-  width: 100%;
-}
+    pre {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.8rem;
+      line-height: 1;
+      font-weight: 500;
+      color: #b8c4d2;
+      white-space: pre;
+      margin: 1.5rem 0;
+      width: 100%;
+    }
 
     .post-content {
       max-width: 50vw;
@@ -204,20 +201,10 @@ pre {
       margin: 1.5rem 0 0.4rem 0;
     }
 
-figcaption {
-  margin-bottom: 1rem;
-}
+    figcaption {
+      margin-bottom: 1rem;
+    }
 
-@media (max-width: 700px) {
-  .post-content {
-    max-width: 100%;
-    padding: 2rem 1.5rem;
-  }
-
-  pre {
-    font-size: 0.7rem; /* scaled proportionally for mobile */
-  }
-}
 
     .blog-year {
       margin-bottom: 2.5rem;
@@ -237,7 +224,7 @@ figcaption {
 
     .post-meta {
       font-size: 0.85rem;
-      color: #6d7b8c;
+      color: #c66b93;
       margin-bottom: 0.3rem;
     }
 
@@ -248,12 +235,12 @@ figcaption {
     }
 
     .post-title a {
-      color: #e3e9f2;
+      color: #d8acf9;
       text-decoration: none;
     }
 
     .post-title a:hover {
-      color: #c7a46b;
+      text-decoration: underline;
     }
 
     .post-description {
@@ -271,7 +258,7 @@ figcaption {
     }
 
     .footer-links a {
-      color: #9aa8b9;
+      color: #d8acf9;
       text-decoration: none;
       margin: 0 0.3rem;
     }
@@ -281,6 +268,15 @@ figcaption {
     }
 
     @media (max-width: 700px) {
+      .post-content {
+        max-width: 100%;
+        padding: 2rem 1.5rem;
+      }
+
+      pre {
+        font-size: 0.65rem; 
+      }
+
       .container {
         flex-direction: column;
       }
@@ -311,6 +307,7 @@ figcaption {
       }
 
       .nav-menu a {
+        color: #d8acf9;
         font-size: 1.2rem;
       }
 
@@ -319,11 +316,8 @@ figcaption {
         padding: 2rem 1.5rem;
       }
 
-      .section p, .section blockquote, .section ul, .blog-year {
+      .section p, .section blockquote, blockquote,  .section ul, .blog-year {
         max-width: 100%;
       }
       
-      .ascii-art {
-        font-size: 0.45rem;
-      }
     }
