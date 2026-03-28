@@ -101,11 +101,18 @@
       margin-bottom: 0.5rem;
     }
 
+    .first-letter {
+      font-size: 45px;
+      line-height: 1em;
+      font-weight: 800;
+    }
+
     h2 {
       font-size: 2.15rem;
       font-weight: 400;
       color: #c66b93;
-      margin-bottom: 1.8rem;
+      margin-bottom: 0.8em;
+      margin-top: 0.8em;
     }
 
     h3 {
@@ -127,7 +134,7 @@
       margin-bottom: 1.2rem;
       color: #9aa8b9;
       text-align: justify;
-      max-width: 100%;
+      max-width: 50vw;
     }
 
     p code {
@@ -135,6 +142,7 @@
       font-family: 'Courier New', Courier, monospace;
       font-size: 0.95em;
       background: transparent;
+      word-spacing: -3px;
       padding: 0;
     }
 
@@ -274,7 +282,7 @@
       }
 
       pre {
-        font-size: 0.65rem; 
+        font-size: 0.35rem; 
       }
 
       .container {
@@ -296,9 +304,8 @@
       }
 
       .nav-menu {
-        display: flex;
+/*        display: flex;*/
         justify-content: center;
-        gap: 1.3rem;
         text-align: center;
       }
 
@@ -308,7 +315,7 @@
 
       .nav-menu a {
         color: #d8acf9;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
       }
 
       .main-content {
@@ -316,7 +323,7 @@
         padding: 2rem 1.5rem;
       }
 
-      .section p, .section blockquote, blockquote,  .section ul, .blog-year {
+      .section p, .section blockquote, blockquote,  .section ul, .blog-year, p {
         max-width: 100%;
       }
       
