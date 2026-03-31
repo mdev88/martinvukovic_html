@@ -15,8 +15,6 @@
         font-family: "Inclusive Sans", "PT Sans", Calibri, Tahoma, sans-serif;
     }
 
-
-
     body {
       background: #0f1217;
       font-family: "Inclusive Sans", "PT Sans", Calibri, Tahoma, sans-serif;
@@ -136,6 +134,11 @@
       text-align: justify;
       max-width: 50vw;
     }
+    
+    strong {
+
+        color: #BBBBBB;
+    }
 
     p code {
       color: #c66b93;
@@ -187,7 +190,7 @@
 
     pre {
       font-family: 'Courier New', Courier, monospace;
-      font-size: 0.8rem;
+      font-size: 0.7rem;
       line-height: 1;
       font-weight: 500;
       color: #b8c4d2;
@@ -275,56 +278,58 @@
       color: #c7a46b;
     }
 
+
+
     @media (max-width: 700px) {
-      .post-content {
-        max-width: 100%;
-        padding: 2rem 1.5rem;
-      }
+          .post-content {
+            max-width: 100%;
+            padding: 2rem 1.5rem;
+          }
 
-      pre {
-        font-size: 0.35rem; 
-      }
+          pre {
+            font-size: 0.35rem; 
+          }
 
-      .container {
-        flex-direction: column;
-      }
+          .container {
+            flex-direction: column;
+          }
 
-      .sidebar {
-        width: 100%;
-        height: auto;
-        position: relative;
-        border-right: none;
-        border-bottom: 1px solid #262e38;
-        padding: 1.5rem;
-        align-items: center;
-      }
+          .sidebar {
+            width: 100%;
+            height: auto;
+            position: relative;
+            border-right: none;
+            border-bottom: 1px solid #262e38;
+            padding: 1.5rem;
+            align-items: center;
+          }
 
-      .sidebar h2 {
-        text-align: center;
-      }
+          .sidebar h2 {
+            text-align: center;
+          }
 
-      .nav-menu {
-/*        display: flex;*/
-        justify-content: center;
-        text-align: center;
-      }
+          .nav-menu {
+    /*        display: flex;*/
+            justify-content: center;
+            text-align: center;
+          }
 
-      .nav-menu li {
-        margin: 0;
-      }
+          .nav-menu li {
+            margin: 0;
+          }
 
-      .nav-menu a {
-        color: #d8acf9;
-        font-size: 1.5rem;
-      }
+          .nav-menu a {
+            color: #d8acf9;
+            font-size: 1.5rem;
+          }
 
-      .main-content {
-        width: 100%;
-        padding: 2rem 1.5rem;
-      }
+          .main-content {
+            width: 100%;
+            padding: 2rem 1.5rem;
+          }
 
-      .section p, .section blockquote, blockquote,  .section ul, .blog-year, p {
-        max-width: 100%;
-      }
+          .section p, .section blockquote, blockquote,  .section ul, .blog-year, p {
+            max-width: 100%;
+          }
       
     }

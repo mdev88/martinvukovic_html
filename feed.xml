@@ -1,135 +1,176 @@
-<rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<title>Martín Vukovic</title>
+<link>https://martinvukovic.com</link>
+<description>Blog personal de Martín Vukovic</description>
+<language>es-ar</language>
+<atom:link href="https://martinvukovic.com/feed.xml" rel="self" type="application/rss+xml" />
 
 <channel>
   <title>Martín Vukovic</title>
   <link>https://martinvukovic.com</link>
   <description>Blog personal de Martín Vukovic</description>
-  
+  <lastBuildDate>Tue, 31 Mar 2026 16:00:45 -0300</lastBuildDate>
+  <item>
+    <title>Perdón por romper tu feed :(</title>
+    <link>https://martinvukovic.com/posts/2026/03-31-perdon.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/03-31-perdon.html</guid>
+    <description>Si todas mis publicaciones volvieron a aparecer en tu lector, perdón.</description>
+    <pubDate>Tue, 31 Mar 2026 16:00:45 -0300</pubDate>
+  </item>
+  <item>
+    <title>Crossing Borders (English)</title>
+    <link>https://martinvukovic.com/posts/2026/29-03-borders.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/29-03-borders.html</guid>
+    <description>Sobre mi relación con el idioma Inglés, y un posible nuevo blog en ese idioma.</description>
+    <pubDate>Sun, 29 Mar 2026 12:00:00 -0300</pubDate>
+  </item>
   <item>
     <title>Sobre el recuerdo compartido</title>
     <link>https://martinvukovic.com/posts/2026/03-26-recuerdo-compartido.html</link>
-    <guid>https://martinvukovic.com/posts/2026/03-26-recuerdo-compartido.html</guid>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/03-26-recuerdo-compartido.html</guid>
     <description>Una reflexión sobre el acto de recordar junto con otras personas.</description>
+    <pubDate>Thu, 26 Mar 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Tres pinturas de John William Waterhouse</title>
     <link>https://martinvukovic.com/posts/2026/03-15-3-pinturas-waterhouse.html</link>
-    <guid>https://martinvukovic.com/posts/2026/03-15-3-pinturas-waterhouse.html</guid>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/03-15-3-pinturas-waterhouse.html</guid>
     <description>Tres de mis pinturas favoritas de este artista que acabo de conocer.</description>
+    <pubDate>Sun, 15 Mar 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Writing Sparks (English)</title>
     <link>https://martinvukovic.com/posts/2026/03-10-writing-sparks.html</link>
-    <guid>https://martinvukovic.com/posts/2026/03-10-writing-sparks.html</guid>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/03-10-writing-sparks.html</guid>
     <description>Writing Sparks are ideas to help you start writing.</description>
+    <pubDate>Tue, 10 Mar 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Rediseño de la web</title>
     <link>https://martinvukovic.com/posts/2026/03-01-rediseno.html</link>
-    <guid>https://martinvukovic.com/posts/2026/03-01-rediseno.html</guid>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/03-01-rediseno.html</guid>
     <description>Presento los cambios de aspecto y funcionamiento de la web.</description>
+    <pubDate>Sun, 01 Mar 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Por qué escribo</title>
-    <link>https://martinvukovic.com/pages/posts/2026/02-18-por-que-escribo.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/02-18-por-que-escribo.html</guid>
+    <link>https://martinvukovic.com/posts/2026/02-18-por-que-escribo.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/02-18-por-que-escribo.html</guid>
     <description>No es que necesite dar razones, pero acá están igualmente.</description>
+    <pubDate>Wed, 18 Feb 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>El olvidado oficio de enviar y recibir cartas</title>
-    <link>https://martinvukovic.com/pages/posts/2026/02-07-cartas.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/02-07-cartas.html</guid>
+    <link>https://martinvukovic.com/posts/2026/02-07-cartas.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/02-07-cartas.html</guid>
     <description>Una reflexión sobre la práctica de escribir cartas.</description>
+    <pubDate>Sat, 07 Feb 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Un malentendido</title>
-    <link>https://martinvukovic.com/pages/posts/2026/02-05-malentendido.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/02-05-malentendido.html</guid>
+    <link>https://martinvukovic.com/posts/2026/02-05-malentendido.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/02-05-malentendido.html</guid>
     <description>Un ejercicio para estimular la escritura creativa, con un pequeño ejemplo.</description>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Guía para nuevxs padres/madres gamers</title>
-    <link>https://martinvukovic.com/pages/posts/2026/01-31-videojuegos-mapapis.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/01-31-videojuegos-mapapis.html</guid>
+    <link>https://martinvukovic.com/posts/2026/01-31-videojuegos-mapapis.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/01-31-videojuegos-mapapis.html</guid>
     <description>Recursos para madres/padres primerizxs que no quieren renunciar a su hobby favorito.</description>
+    <pubDate>Sat, 31 Jan 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Borrador</title>
-    <link>https://martinvukovic.com/pages/posts/2026/01-29-borrador.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/01-29-borrador.html</guid>
+    <link>https://martinvukovic.com/posts/2026/01-29-borrador.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/01-29-borrador.html</guid>
     <description>Un texto que pinta un estado de ánimo.</description>
+    <pubDate>Thu, 29 Jan 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Lo que queda de mi barrio</title>
-    <link>https://martinvukovic.com/pages/posts/2026/01-27-barrio.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/01-27-barrio.html</guid>
+    <link>https://martinvukovic.com/posts/2026/01-27-barrio.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/01-27-barrio.html</guid>
     <description>Un recorrido por lugares históricos (a nivel personal) de mi barrio.</description>
+    <pubDate>Tue, 27 Jan 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Blog Quesions Challenge</title>
-    <link>https://martinvukovic.com/pages/posts/2026/01-21-blog-questions-challenge.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/01-21-blog-questions-challenge.html</guid>
+    <link>https://martinvukovic.com/posts/2026/01-21-blog-questions-challenge.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/01-21-blog-questions-challenge.html</guid>
     <description>Una serie de preguntas y respuestas sobre mi sitio personal y blog.</description>
+    <pubDate>Wed, 21 Jan 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Busca</title>
-    <link>https://martinvukovic.com/pages/posts/2026/01-21-busca.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/01-21-busca.html</guid>
+    <link>https://martinvukovic.com/posts/2026/01-21-busca.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/01-21-busca.html</guid>
     <description>Un micro relato que escribí de un tirón y casi sin revisar.</description>
+    <pubDate>Wed, 21 Jan 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Una lectura sobre mi cabeza</title>
-    <link>https://martinvukovic.com/pages/posts/2026/01-14-lectura.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2026/01-14-lectura.html</guid>
+    <link>https://martinvukovic.com/posts/2026/01-14-lectura.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2026/01-14-lectura.html</guid>
     <description>Pasé de leer cero libros a 40 de un año para el otro. ¿Por qué?</description>
+    <pubDate>Wed, 14 Jan 2026 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>La Rivera</title>
-    <link>https://martinvukovic.com/pages/posts/2025/08-24-la-rivera.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2025/08-24-la-rivera.html</guid>
+    <link>https://martinvukovic.com/posts/2025/08-24-la-rivera.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2025/08-24-la-rivera.html</guid>
     <description>“La Rivera” era una “casa de campo”, o “casa de vacaciones”, o “casa de fin de semana”, o también llamada “casa quinta”. Es el lugar en donde pasé muchas vacaciones y fines de semana en mi infancia/pre adolescencia.</description>
+    <pubDate>Sun, 24 Aug 2025 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Pequeñas Molotov</title>
-    <link>https://martinvukovic.com/pages/posts/2025/08-19-molotov.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2025/08-19-molotov.html</guid>
+    <link>https://martinvukovic.com/posts/2025/08-19-molotov.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2025/08-19-molotov.html</guid>
     <description>Pequeños actos de desobediencia allanan el camino a rupturas más fundamentales.</description>
+    <pubDate>Tue, 19 Aug 2025 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Compañera</title>
-    <link>https://martinvukovic.com/pages/posts/2025/08-03-companera.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2025/08-03-companera.html</guid>
+    <link>https://martinvukovic.com/posts/2025/08-03-companera.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2025/08-03-companera.html</guid>
     <description>Durante los años del jardín de infantes, quien escribe, era casi siempre seleccionado para interpretar los personajes principales de lo actos escolares: Pinoccio, Sarmiento, Alí Babá… y también para bailar en actos musicales de tango, tarantela, etc.</description>
+    <pubDate>Sun, 03 Aug 2025 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>#Legacypunk</title>
-    <link>https://martinvukovic.com/pages/posts/2025/06-16-legacypunk.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2025/06-16-legacypunk.html</guid>
+    <link>https://martinvukovic.com/posts/2025/06-16-legacypunk.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2025/06-16-legacypunk.html</guid>
     <description>LegacyPunk busca la completitud en lo que llegó al fin de su ciclo. Y en ese destino alcanzado encuentra el equilibrio: mental, técnico y espiritual.</description>
+    <pubDate>Mon, 16 Jun 2025 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>¿Qué extraño realmente cuando extraño la Internet de los 90s?</title>
-    <link>https://martinvukovic.com/pages/posts/2025/04-24-que-extra%C3%B1o-de-internet.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2025/04-24-que-extra%C3%B1o-de-internet.html</guid>
+    <link>https://martinvukovic.com/posts/2025/04-24-que-extra%C3%B1o-de-internet.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2025/04-24-que-extra%C3%B1o-de-internet.html</guid>
     <description>La imagen que yo tenía de Internet apenas llegó a mi alcance era algo así...</description>
+    <pubDate>Thu, 24 Apr 2025 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Vuelvo a alojar mi blog</title>
-    <link>https://martinvukovic.com/pages/posts/2025/04-17-vuelvo-a-alojar-mi-blog.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2025/04-17-vuelvo-a-alojar-mi-blog.html</guid>
+    <link>https://martinvukovic.com/posts/2025/04-17-vuelvo-a-alojar-mi-blog.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2025/04-17-vuelvo-a-alojar-mi-blog.html</guid>
     <description>Parece una broma andar mudando el blog de un lado para otro...</description>
+    <pubDate>Thu, 17 Apr 2025 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>El placer y el dolor de recordar</title>
-    <link>https://martinvukovic.com/pages/posts/2024/08-15-el-placer-y-el-dolor-de-recordar.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2024/08-15-el-placer-y-el-dolor-de-recordar.html</guid>
+    <link>https://martinvukovic.com/posts/2024/08-15-el-placer-y-el-dolor-de-recordar.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2024/08-15-el-placer-y-el-dolor-de-recordar.html</guid>
     <description>En los últimos años empecé a experimentar unos períodos de nostalgia bastante profunda y quise entender por qué me pasaba esto.</description>
+    <pubDate>Thu, 15 Aug 2024 12:00:00 -0300</pubDate>
   </item>
   <item>
     <title>Mis blogs</title>
-    <link>https://martinvukovic.com/pages/posts/2024/10-01-nuevo-blog.html</link>
-    <guid>https://martinvukovic.com/pages/posts/2024/10-01-nuevo-blog.html</guid>
+    <link>https://martinvukovic.com/posts/2024/10-01-nuevo-blog.html</link>
+    <guid isPermaLink="true">https://martinvukovic.com/posts/2024/10-01-nuevo-blog.html</guid>
     <description>Soy lo que podría llamarse un veterano de Internet...</description>
+    <pubDate>Tue, 01 Oct 2024 12:00:00 -0300</pubDate>
   </item>
 </channel>
 
